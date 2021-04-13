@@ -5,4 +5,3 @@ This is a very simple photo selector that can be easily added to any project. Th
 
 ## Technologies
 * Swift 5
-* Ruby
